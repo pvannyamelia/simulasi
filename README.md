@@ -1,3 +1,3 @@
 # simulasi
 
-coba stash
+coba stash dari main
