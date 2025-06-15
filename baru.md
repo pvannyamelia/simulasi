@@ -1,3 +1,3 @@
 file baru
 
-yang sudah diubah
+yang sudah diubah oleh vanny
