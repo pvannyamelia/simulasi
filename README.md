@@ -1,1 +1,3 @@
 # simulasi
+
+coba stash
